@@ -1,9 +1,6 @@
 hello from main
 first file created
-
-
 iam creating another branch
-
-
-
 creating another new branch
+text from vs codegit 
+jiugkyuhlyub,hj
