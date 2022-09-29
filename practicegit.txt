@@ -1,6 +1,5 @@
-iam practicing git.
-iam creating the new branch i.e othersgit
-iam rom new branch
+iam practicing the goot technology git addgit.
+iam creating the new branch i.e othersgi
 
 ok now im ready to be merged
 
