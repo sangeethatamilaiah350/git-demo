@@ -6,4 +6,4 @@ ok now im ready to be merged
 am working fo for the furthet versioninh 
  im frm dev2
 
-im from second developper
+im from second developpergit doing tje merge conflict
