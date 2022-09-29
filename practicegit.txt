@@ -1,1 +1,2 @@
-iam practicing git
+iam practicing git.
+iam creating the new branch i.e others
