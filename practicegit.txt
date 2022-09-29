@@ -5,3 +5,6 @@ iam rom new branch
 ok now im ready to be merged
 
 am working fo for the furthet versioninh 
+
+
+im from second developper
